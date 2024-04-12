@@ -1,0 +1,552 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,5.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,38.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,5.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,10,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,34.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,5.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,36.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,17.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,7.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,13.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,4.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,14.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,AM,ARM,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,2.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,AM,ARM,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,AM,ARM,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,3.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2007,27.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,37.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,43.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,45.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,41.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2007,24.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,43.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,44.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,54.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,45.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2007,25.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,40.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,44.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,50.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,43.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,BY,BLR,112,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,8.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,BY,BLR,112,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,6.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,BY,BLR,112,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,7.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,BZ,BLZ,84,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,BZ,BLZ,84,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,11.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,BZ,BLZ,84,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,9.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,10.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,19.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,17.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,8.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,23.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,16.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,9.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,21.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,17,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,BT,BTN,64,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,BT,BTN,64,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,BT,BTN,64,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,5.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,5.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,11.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,11.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,4.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,4.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,16.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,16.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,5.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,5.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,14.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,BO,BOL,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,14.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,30.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,31.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,30.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,BI,BDI,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,BI,BDI,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,BI,BDI,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,CV,CPV,132,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,8.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,CV,CPV,132,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,9.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,CV,CPV,132,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,8.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,2.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,5.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,2.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,5.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,2.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,5.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,11.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,22.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,12.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,19.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,12,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,20.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,13.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,12.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,13,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,1.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,19.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,1.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,21.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,1.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,20.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,KM,COM,174,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,KM,COM,174,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,KM,COM,174,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,CG,COG,178,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,16.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,CG,COG,178,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,15.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,CG,COG,178,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,16,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Costa Rica,CR,CRI,188,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,5.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Costa Rica,CR,CRI,188,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,4.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Costa Rica,CR,CRI,188,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,4.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,7.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,15.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,22.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,16.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,17.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,16.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Côte d'Ivoire,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,15.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,15.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Côte d'Ivoire,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Côte d'Ivoire,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,20.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,20.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Côte d'Ivoire,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Côte d'Ivoire,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,18.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,18.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,22.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,55,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,16.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,47.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,19.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,50.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,2.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,24.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,2.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,2.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,19.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,2.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,2.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,21.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Dominican Republic,DO,DOM,214,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Dominican Republic,DO,DOM,214,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Dominican Republic,DO,DOM,214,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2005,0.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,1.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2005,0.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,1.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2005,0.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,1.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,SV,SLV,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,29.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,SV,SLV,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,35.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,SV,SLV,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,32.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Equatorial Guinea,GQ,GNQ,226,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Equatorial Guinea,GQ,GNQ,226,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Swaziland,SZ,SWZ,748,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,47.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Swaziland,SZ,SWZ,748,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,43.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Swaziland,SZ,SWZ,748,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,45.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2005,0.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,35.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2005,0.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,30.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2005,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,33.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,FJ,FJI,242,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,22.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,FJ,FJI,242,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,17.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,FJ,FJI,242,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,19.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,23.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,34.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,22.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,31.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,23.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,33.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,GE,GEO,268,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,GE,GEO,268,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,15.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,GE,GEO,268,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,10.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,1.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,8.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,39.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,2.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,6.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,34.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,1.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,7.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,37.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guatemala,GT,GTM,320,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,0.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guatemala,GT,GTM,320,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,1.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guatemala,GT,GTM,320,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,1.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,23.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,25.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,31,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,26.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,27.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,26,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,22.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,33.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,32.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,34.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,27.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,34.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,GY,GUY,328,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,GY,GUY,328,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,GY,GUY,328,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,5.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,6.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,6.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,32.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,29.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,30.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,19.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,30.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,20.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,30.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,20.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,30.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,38.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,1.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,36.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,1.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,37.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,2.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,8.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,0.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,8.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,8.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,KI,KIR,296,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,12,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,KI,KIR,296,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,15,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,KI,KIR,296,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,13.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,13.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,23.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,17.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,20.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,15.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,21.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,15.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,1.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,15,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,15.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,1.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,21,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,14.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,17.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2007,0.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,21.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2007,0.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,3.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,24.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2007,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,3.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,23.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,0.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,9.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,2.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,11.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,10.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,28.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,29.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,29.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,28.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,27.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,28.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,28.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,28.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,29.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,MV,MDV,462,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,3.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,MV,MDV,462,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,MV,MDV,462,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,48.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,8.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,15.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,1.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,15.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,15.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,22.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,23.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,23.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,MX,MEX,484,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,12.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,MX,MEX,484,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,MX,MEX,484,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,10.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,8.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,18.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,10,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,15,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,9.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,16.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mozambique,MZ,MOZ,508,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,31.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mozambique,MZ,MOZ,508,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,30.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mozambique,MZ,MOZ,508,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,30.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Myanmar,MM,MMR,104,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,10.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burma,MM,MMR,104,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,10.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Myanmar,MM,MMR,104,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,6.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burma,MM,MMR,104,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,6.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Myanmar,MM,MMR,104,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,8.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burma,MM,MMR,104,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,8.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Namibia,,NAM,516,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Namibia,,NAM,516,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,4.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,29.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,15.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,38.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,7.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,31.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,19.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,37.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,6.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,30.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,17.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,37.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,10,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,10.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,10.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,20.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,31.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,32,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,39.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,34.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,30.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,40.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,33.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,31.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2021,40.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,12.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,1.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,12.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,1.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,12.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,PG,PNG,598,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,PG,PNG,598,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,PG,PNG,598,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,7.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,PY,PRY,600,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,6.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,PY,PRY,600,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,7.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,PY,PRY,600,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,7.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,1.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2009,1.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2012,0.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,4.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,21.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,26.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,1.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,5.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,24.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,14,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,37.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,14.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,35.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,14.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,36.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,WS,WSM,882,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,27.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,WS,WSM,882,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,38.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,WS,WSM,882,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,33,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,ST,STP,678,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,31.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,ST,STP,678,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,40.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,ST,STP,678,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,36.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,2.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,8.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,5.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,28.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,29.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,28.8,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,1.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,7.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,25.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,27.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,34.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.6,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,2.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,6.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,26.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,28.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,31.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,2.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,3.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,47.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,56.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,1.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.7,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,4.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,52.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,59.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2008,2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,3.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,50,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,57.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Solomon Islands,SB,SLB,90,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,3.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Solomon Islands,SB,SLB,90,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,1.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Solomon Islands,SB,SLB,90,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,2.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,ZA,ZAF,710,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,34.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,ZA,ZAF,710,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,38.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,ZA,ZAF,710,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,36.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,SS,SSD,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,SS,SSD,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,3.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,SS,SSD,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,3.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,15.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,15.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,0.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,15.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,TJ,TJK,762,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,20.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,TJ,TJK,762,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,18.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,TJ,TJK,762,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,19.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,5.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,52.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,6.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,48.6,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,5.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,50.2,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,8.3,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,12.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,1.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2017,10.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,TN,TUN,788,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,6.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,TN,TUN,788,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,2.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,TN,TUN,788,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2018,3.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkmenistan,TM,TKM,795,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,10.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,TV,TUV,798,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,8.6,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,TV,TUV,798,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,4.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,TV,TUV,798,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2020,5.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,38.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,2.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,42.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2006,0.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,1.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,40.3,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,5.4,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,16.7,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,3.9,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,18.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2010,4.7,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2016,17.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vanuatu,VU,VUT,548,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,1.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vanuatu,VU,VUT,548,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Viet Nam,VN,VNM,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,13.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,VN,VNM,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,13.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Viet Nam,VN,VNM,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,19.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,VN,VNM,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,19.5,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Viet Nam,VN,VNM,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,16.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,VN,VNM,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,16.9,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,YE,YEM,887,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.5,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,YE,YEM,887,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.3,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,YE,YEM,887,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2013,0.4,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,ZM,ZMB,894,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,38,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,ZM,ZMB,894,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,39,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,ZM,ZMB,894,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,38.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,17.1,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,20.2,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,22.9,Female,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.2,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,16.8,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,19.4,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,22.1,Male,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2011,0.1,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2014,17,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2015,19.8,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,2019,22.5,Total,Units,%,Reported,Free,End of fieldwork,Under 5 years old
